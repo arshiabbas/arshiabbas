@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [abbasmirza.awebguru.in](abbasmirza.awebguru.in)
+- 👨‍💻 All of my projects are available at [https://abbasmirza.awebguru.in](https://abbasmirza.awebguru.in)
 
 - 💬 Ask me about **Wordpress, Data Analytics**
 
@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://abbasmirza.awebguru.in" target="blank"><img align="center" src="http://abbasmirza.awebguru.in/wp-content/uploads/2023/11/cropped-favicon-abbas-mirza.webp" alt="arshiabbasmirza" height="30" width="40" /></a>
 <a href="https://twitter.com/arshiabbasmirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arshiabbasmirza" height="30" width="40" /></a>
 <a href="https://linkedin.com/in//in/arshiabbasmirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/arshiabbasmirza" height="30" width="40" /></a>
 <a href="https://kaggle.com/mirzaarshiabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mirzaarshiabbas" height="30" width="40" /></a>
