@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Java, Spring Boot, Microservices & System Design**
 
-- 📫 How to reach me **hello@awebguru.in**
-
 - ⚡ Fun fact **I write clean Java code by day and optimize database queries by night! 🌐💻☕ Always looking for the ideal balance between performance and elegant design.**
 
 <h3 align="left">Connect with me:</h3>
