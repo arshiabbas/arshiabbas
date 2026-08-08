@@ -1,4 +1,4 @@
-![MasterHead](https://awebguru.in/wp-content/uploads/2024/01/arshi-abbas-mirza-github-banner.gif)
+![MasterHead](https://www.maruthitechnologies.in/assets/images/animate-gif/11.gif)
 <h1 align="center">Hi 👋, I'm Arshi Abbas Mirza</h1>
 <h3 align="center">Senior Software Engineer & Java Developer specializing in building robust backends, scalable microservices, and enterprise web applications.</h3>
 <img align="right" width='400px' alt="data-analytics" src="https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif">
